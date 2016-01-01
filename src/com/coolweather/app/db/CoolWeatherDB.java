@@ -1,11 +1,9 @@
-package com.coolweather.app.util;
+package com.coolweather.app.db;
 
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
-import android.support.v4.app.ListFragment;
-import com.coolweather.app.db.CoolWeatherOpenHelper;
 import com.coolweather.app.model.City;
 import com.coolweather.app.model.County;
 import com.coolweather.app.model.Province;
